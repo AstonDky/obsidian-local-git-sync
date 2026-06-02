@@ -17,20 +17,11 @@
 
 ## Preview
 
-> Screenshot placeholder  
-> Replace this section with plugin screenshots later.
 
-```text
-docs/images/preview-1.png
-docs/images/preview-2.png
-```
 
-> Demo video placeholder  
-> Replace this section with your demo video link later.
+https://github.com/user-attachments/assets/4314fe67-8e0c-4330-8240-e751392f3837
 
-```text
-https://github.com/<your-name>/obsidian-local-git-sync/assets/<video-id>
-```
+
 
 ---
 
