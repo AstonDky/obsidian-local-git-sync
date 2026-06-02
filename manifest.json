@@ -1,0 +1,10 @@
+{
+  "id": "local-git-sync",
+  "name": "Local Git Sync",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Sync and back up vault changes using Git.",
+  "author": "AstonDky66",
+  "authorUrl": "https://github.com/AstonDky",
+  "isDesktopOnly": true
+}

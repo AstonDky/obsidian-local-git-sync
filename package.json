@@ -1,0 +1,11 @@
+{
+  "name": "obsidian-local-git-sync",
+  "version": "1.0.0",
+  "description": "An Obsidian desktop plugin for syncing and backing up vault changes with Git.",
+  "license": "MIT",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "build": "node build.mjs"
+  }
+}
